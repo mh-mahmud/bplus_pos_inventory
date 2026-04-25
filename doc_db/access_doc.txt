@@ -1,0 +1,18 @@
+Admin login:-
+user: owner
+pass: 12345678
+
+User login:-
+user: rish01
+pass: R123456a
+
+Database Info:-
+db name: nbhsdhak_pos
+username: nbhsdhak_possoft
+password: $_yCp}c%BG#?
+
+
+Database Info(new):-
+dbname: thesecurityworld_pos
+username: thesecurityworld_pos
+password: ad}-f-yP3vpy

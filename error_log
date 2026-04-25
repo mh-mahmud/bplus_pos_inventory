@@ -1,0 +1,3 @@
+
+[10-Jul-2018 15:44:00 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/bplus/public_html/app/third_party/MPDF/classes/ttfontsuni.php on line 3386
+[27-Sep-2018 15:57:09 Asia/Dhaka] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: sessions) in /home/bplus/wari.191135556bplus.com/system/libraries/Session/Session.php on line 141
